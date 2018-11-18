@@ -1,2 +1,2 @@
 # BillBoard-Advertising
-A java based project : It provides approximation about the value of effective traffic one can get by trying different permutations of Bill-Board Placement. It considers the input data as 
+A java based project : It provides approximation about the value of effective traffic one can get by trying different permutations of Bill-Board Placement. 
